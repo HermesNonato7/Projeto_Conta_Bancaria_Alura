@@ -1,3 +1,54 @@
+# Compilados Java
+*.class
+target/
+bin/
+
+# Empacotamento (JAR, WAR, EAR, etc.)
+*.jar
+*.war
+*.ear
+
+# Arquivos do IntelliJ IDEA
+.idea/
+*.iml
+
+# Arquivos de build comuns
+build/
+out/
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de dependência (Maven, Gradle)
+.m2/
+build/
+.gradle/
+gradle/
+*.lockfile
+
+# Arquivos de anotação de processadores (se aplicável)
+kapt/
+
+# Arquivos executáveis nativos (se aplicável)
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Arquivos de configuração específicos do ambiente (mantenha exemplos, mas ignore os reais)
+config/application-*.properties
+config/application-*.yml
+
+# Outros arquivos temporários ou de backup que você pode gerar
+*.backup
+*.swp
+*.swo
+*~
+
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
