@@ -4,7 +4,7 @@ public class Desafio {
     public static void main(String[] args) {
 
         String nome = "Hermes";
-        String tipoConta = "Corrente";
+        String tipoConta = "Corrente2";
         double saldo = 1599.99;
         int opcao = 0;
 
@@ -15,7 +15,7 @@ public class Desafio {
         System.out.println("\n*******************************");
 
         String menu = """
-                ** Digite sua opção **
+                ** Digite sua opçãoo **
                 1 - Consultar saldo
                 2 - Depositar valor
                 3 - Sacar valor
