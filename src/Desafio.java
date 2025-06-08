@@ -4,7 +4,7 @@ public class Desafio {
     public static void main(String[] args) {
 
         String nome = "Hermes";
-        String tipoConta = "Corrente";
+        String tipoConta = "Corrente3";
         double saldo = 1599.99;
         int opcao = 0;
 
